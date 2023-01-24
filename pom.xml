@@ -140,5 +140,5 @@
            <name>releases</name>
            <url>http://35.238.31.100:8081/repository/maven-releases</url>
        </repository>
-   </distributionManage
+    </distributionManagement>
 </project>
