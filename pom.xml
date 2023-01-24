@@ -133,12 +133,12 @@
        <snapshotRepository>
            <id>snapshots</id>
            <name>snapshots</name>
-           <url>http://35.238.31.100:8081/nexus/repository/maven-snapshots/</url>
+           <url>http://35.238.31.100:8081/#browse/browse:maven-snapshots</url>
        </snapshotRepository>
        <repository>
            <id>releases</id>
            <name>releases</name>
-           <url>http://35.238.31.100:8081/nexus/repository/maven-releases</url>
+           <url>http://35.238.31.100:8081/#browse/browse:maven-releases</url>
        </repository>
-   </distributionManagement>
+   </distributionManage
 </project>
